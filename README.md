@@ -1,4 +1,6 @@
-#Github Favorites
+# Github Favorites
+
+## Description of the project.
 
 This project is a simple example of a web application that allows users to add and remove their favorite Github profiles.
 
